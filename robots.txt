@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://euqqmbpu.github.io/sitemap.xml
